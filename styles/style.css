@@ -13,13 +13,13 @@ body {
   background: #ffffff;
 }
 main {
-  min-height: 100vh;
+  min-height: 80svh;
 
   display: flex;
   justify-content: center;
   align-items: center;
 
-  padding-top: 2rem 1rem;
+  padding: 2rem 1rem;
 }
 
 .container {
@@ -36,7 +36,6 @@ main {
 
 h2 {
   text-transform: uppercase;
-  padding: 20px 0;
   font-size: 2em;
 }
 
